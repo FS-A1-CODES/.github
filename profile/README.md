@@ -15,3 +15,4 @@
 This repo contains FS-A1 questions that are being given by Mr.Rajendra Tapadia for 2024 KMIT pass-out students.
 #Fork and star the repository for pull requests!!
 #Star the repository!!
+#Day wise codes are available both in CPP and JAVA languages.
