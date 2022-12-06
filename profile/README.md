@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# FS-A-Codes
+This repo contains Fs-A1 questions that are being given by Mr.Rajendra Tapadia for 2024 KMIT pass-out students.
+#Fork and star the repository for pull requests!!
+#Star the repository!!
