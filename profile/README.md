@@ -17,6 +17,6 @@ This repo contains FS-A1 questions that are being given by Mr.Rajendra Tapadia f
 Star the repository!!
 <br>
 Day wise codes are available both in CPP and JAVA languages.
-* [Java Solutions](https://github.com/FS-A1-CODES/FS-A-Codes/tree/main/CPP)
+* [CPP Solutions](https://github.com/FS-A1-CODES/FS-A-Codes/tree/main/CPP)
  <br><br>
-* [CPP Solutions](https://github.com/FS-A1-CODES/FS-A-Codes/tree/main/JAVA)
+* [JAVA Solutions](https://github.com/FS-A1-CODES/FS-A-Codes/tree/main/JAVA)
